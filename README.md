@@ -36,7 +36,7 @@
           ----filterdata2.py
 
 ----------
-##########How To Use
+## How To Use
 - **Others/data contains all data files that have been cleaned and not cleaned**
 - **Others/filterdata.py and Others/filterdata2.py use for data pre-cleaning**
 - **Problem1/GaussianMixture/train_timepred use to solve problems,Problem1/GaussianMixture/Paint and Paint2 and Paint3 use plotly to implement data visualization**
