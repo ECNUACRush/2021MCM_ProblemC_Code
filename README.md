@@ -1,7 +1,7 @@
 
 
-----------
-###############2021MCM _ Problem_Code
+==========
+#2021MCM _ Problem_Code
 
 ----------
 ###############Environmental Dependency:python3.6 pytorch cudatoolkit plotly sklearn statemodels
