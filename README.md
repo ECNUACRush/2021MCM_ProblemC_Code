@@ -4,11 +4,11 @@
 # 2021MCM _ Problem_Code
 
 ----------
-###############Environmental Dependency:python3.6 pytorch cudatoolkit plotly sklearn statemodels
+## Environmental Dependency:python3.6 pytorch cudatoolkit plotly sklearn statemodels
 
 ----------
 
-###########目录结构描述
+## 目录结构描述
     2021MCM _ Problem_Code
       ----Problem1
           ----GaussianMixture.py
